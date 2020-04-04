@@ -1,0 +1,21 @@
+body {
+    line-height: 1.4;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "sans-serif";
+}
+table {
+    border-collapse: collapse;
+    width: 70%;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 5px;
+    text-align: left;
+}
+th {
+    background-color: #b6d7a8;
+}
+tr:hover {
+    background-color: #ddd;
+}

@@ -1,0 +1,1 @@
+java -jar pom-dependency-checker.jar
