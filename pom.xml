@@ -15,7 +15,7 @@
         <kotlin.code.style>official</kotlin.code.style>
         <junit.version>4.12</junit.version>
         <maven-model.version>3.6.3</maven-model.version>
-        <jsoup.version>1.13.1</jsoup.version>
+        <jsoup.version>1.14.2</jsoup.version>
     </properties>
 
     <dependencies>
